@@ -1,0 +1,7 @@
+-r requirements.txt
+pytest>=8.0
+pyinstaller>=6.0
+ruff>=0.5
+mypy>=1.10
+types-requests
+types-openpyxl
